@@ -1,7 +1,7 @@
 install:
 	poetry install
 
-build:
+build: check
 	poetry build
 
 publish:
@@ -10,5 +10,12 @@ publish:
 package-install:
 	python3 -m pip install --user dist/*.whl
 
+selfcheck:
+	poetry check
+
+check: selfcheck test lint
+
 brain-games:
 	poetry run brain-games
+
+.PHONY: install test lint selfcheck check build
