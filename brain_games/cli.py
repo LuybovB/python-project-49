@@ -6,9 +6,6 @@ def welcome_user():
     return name
 
 
-NAME = welcome_user()
-
-
 if __name__ == "__main__":
     name = welcome_user()
     print(f"Hello, {name}!")

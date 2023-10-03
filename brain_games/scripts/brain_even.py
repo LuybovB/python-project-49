@@ -1,5 +1,6 @@
 import random
-from brain_games.cli import name
+
+
 def is_even(number):
     if number % 2 == 0:
         return True
@@ -18,7 +19,7 @@ def run_game():
             print("Correct!")
             attempts += 1
         else:
-            print(f"'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, {name}!")
+            print(f"'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, !")
 
 
 if __name__ == "__main__":
