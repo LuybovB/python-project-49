@@ -5,5 +5,5 @@
 
 <a href="https://codeclimate.com/github/LuybovB/python-project-49/test_coverage"><img src="https://api.codeclimate.com/v1/badges/038eb35db103bd0b40f2/test_coverage" /></a>
 
-<a href="https://asciinema.org/a/TakHTzewi5tvRDLWNLmvcnq6t" target="_blank"><img src="https://asciinema.org/a/TakHTzewi5tvRDLWNLmvcnq6t.svg" /></a>
+<a href="https://asciinema.org/a/Tjp1InPrUsKRYFjFM3xWFwQha" target="_blank"><img src="https://asciinema.org/a/Tjp1InPrUsKRYFjFM3xWFwQha.svg" /></a>
 
