@@ -1,4 +1,5 @@
 import random
+import prompt
 
 
 def is_even(number):
@@ -9,7 +10,9 @@ def is_even(number):
 
 
 def run_game():
-    print("Введите 'yes', если число чётное, или 'no', если число нечётное: ")
+    name = prompt.string('May I have your name? ')
+    print(f"Hello, {name}!")
+    print("Answer 'yes',if the number is even, otherwise answer 'no'.")
     attempts = 0
     while attempts < 3:
         number = random.randint(1, 100)
@@ -19,7 +22,8 @@ def run_game():
             print("Correct!")
             attempts += 1
         else:
-            print(f"'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, !")
+            print(f"'yes' is wrong answer ;(. Correct answer was 'no'.\nLet's try again, {name}!")
+    print(f"Congratulations, {name}")
 
 
 if __name__ == "__main__":
