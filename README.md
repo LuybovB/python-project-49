@@ -7,11 +7,11 @@
 
 ### Demonstration:
 
-#Brain-even
+# Brain-even
 
-<a href="https://asciinema.org/a/Tjp1InPrUsKRYFjFM3xWFwQha" target="_blank"><img src="https://asciinema.org/a/Tjp1InPrUsKRYFjFM3xWFwQha.svg" /></a>
+<a href="https://asciinema.org/a/vAWPnfNHF4I1WsdlnLYqRkFS7" target="_blank"><img src="https://asciinema.org/a/vAWPnfNHF4I1WsdlnLYqRkFS7.svg" /></a>
 
-#Brain-calc
+# Brain-calc
 
 <a href="https://asciinema.org/a/g402xoqQa9RfqK7Kvzf3seo4W" target="_blank"><img src="https://asciinema.org/a/g402xoqQa9RfqK7Kvzf3seo4W.svg" /></a>
 
