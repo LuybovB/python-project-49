@@ -5,6 +5,12 @@
 
 <a href="https://codeclimate.com/github/LuybovB/python-project-49/test_coverage"><img src="https://api.codeclimate.com/v1/badges/038eb35db103bd0b40f2/test_coverage" /></a>
 
+### Installation:
+
+1. git clone git@github.com:Tarilia/python-project-49.git
+2. make package-install
+3. enter game name(brain-even, brain-calc)
+
 ### Demonstration:
 
 #### Brain-even
