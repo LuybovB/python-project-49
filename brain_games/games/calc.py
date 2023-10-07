@@ -17,4 +17,5 @@ def run_game():
         correct_answer = num_1 - num_2
     else:
         correct_answer = num_1 * num_2
+
     return question, str(correct_answer)

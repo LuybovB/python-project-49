@@ -21,3 +21,6 @@
 
 <a href="https://asciinema.org/a/g402xoqQa9RfqK7Kvzf3seo4W" target="_blank"><img src="https://asciinema.org/a/g402xoqQa9RfqK7Kvzf3seo4W.svg" /></a>
 
+#### Brain-gcd
+
+<a href="https://asciinema.org/a/EMAzN1gRAvcXGImO0DPhCfxyQ" target="_blank"><img src="https://asciinema.org/a/EMAzN1gRAvcXGImO0DPhCfxyQ.svg" /></a>
