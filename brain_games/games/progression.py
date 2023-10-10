@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-import random
-from math import gcd
+from random import randint
 
 
 DESCRIPTION = ('What number is missing'
@@ -8,18 +7,12 @@ DESCRIPTION = ('What number is missing'
 
 
 def run_game():
-    length = random.randint(4, 10)
-    hidden_position = random.randint(0, length - 1)
-    difference = random.randint(1, 10)
-    question = []
-    hidden_number = None
-
-    for i in range(length):
-        if i == hidden_position:
-            question.append("..")
-            hidden_number = (i + 1) * difference
-        else:
-            number = random.randint(1, 100)
-            question.append(number)
-
-    return question, hidden_number
+    start = randint(1, 100)
+    difference = randint(2, 5)
+    length = randint(4, 10)
+    progression = list(range(start, start + difference * length, difference))
+    random_index = randint(0, len(progression) - 1)
+    correct_answer = progression[random_index]
+    progression[random_index] = '..'
+    question = " ".join(map(str, progression))
+    return question, str(correct_answer)
