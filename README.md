@@ -23,4 +23,4 @@
 
 #### Brain-gcd
 
-<a href="https://asciinema.org/a/EMAzN1gRAvcXGImO0DPhCfxyQ" target="_blank"><img src="https://asciinema.org/a/EMAzN1gRAvcXGImO0DPhCfxyQ.svg" /></a>
+<a href="https://asciinema.org/a/x1BZfQTZtbGN6I1WFGSVPnvEM" target="_blank"><img src="https://asciinema.org/a/x1BZfQTZtbGN6I1WFGSVPnvEM.svg" /></a>
