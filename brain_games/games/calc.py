@@ -1,4 +1,3 @@
-import prompt
 import random
 
 DESCRIPTION = ('Answer "yes" if the '
